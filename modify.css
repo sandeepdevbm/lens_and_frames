@@ -1,0 +1,452 @@
+.contact_details{
+    height: 38px;
+    width: 100%;
+    background: #ebe9eb;
+}
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+.information{
+    font-family: Raleway, sans-serif;
+    font-size: 16px;
+    padding-left: 1195px;
+    word-spacing: 5px;
+    cursor: pointer;
+    
+}
+.fb{
+    width: 15%;
+    margin-left: 0px;
+    padding-top: 5px;
+    cursor: pointer;
+}
+.logo_header{
+    height: 100px;
+    background: #fff;
+    display: flex;
+    justify-content:center;
+}
+.logo_header_left{
+    width: 50%;
+    background: #fff;
+}
+.logo_header_right{
+    width: 50%;
+    background: #fff;
+    padding-left: 519px;
+    padding-top: 21px;
+    font-family: Raleway, sans-serif;
+    font-size: 16px;
+    display: flex;
+}
+.store{
+    padding-top: 3px;
+    cursor: pointer;
+}
+.location{
+    height: 22px;
+    padding-right: 7px;
+    padding-top: 2px;
+    cursor: pointer;
+}
+.appointment{
+    width: 303px;
+    height: 58px;
+    border-color: #db0306;
+    background: #db0306;
+    border-radius: 5px;
+    margin-left: 35px;
+    box-shadow: #fff;
+    display: flex;
+    cursor: pointer;
+}
+.appointment:hover{
+    text-decoration: underline white;
+    
+}
+.logo{
+    height: 75px;
+    width: 304px;
+    padding-left: 22px;
+    padding-top: 21px;
+    cursor: pointer;
+}
+.line{
+    margin: 1px;
+    width: 96%;
+    margin-left: 20px;
+    opacity: 40%;
+}
+.img{
+    height: 22px;
+    padding-left: 36px;
+    padding-top: 15px;
+}
+.book{
+    font-family: Raleway, sans-serif;
+    padding-left: 13px;
+    padding-top: 2px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+}
+.categories_header{
+    height: 55px;
+    width: 100%;
+    background: #fff;
+}
+.categories{
+    margin-left: 187px;
+    font-family: Raleway, sans-serif;
+    color: #db0306;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    padding-top: 8px;
+    display: flex;
+}
+.elements{
+    margin-left: 39px;
+    color: black;
+    font-weight: 100;
+    padding-top: 8px;
+    text-decoration: none;
+}
+.elements:hover{
+    color: #db0306;
+}
+.categories_image{
+    height: 26px;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+.main_image{
+    height: 450px;
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.sub_image{
+    height: 450px;
+    position: absolute;
+    top: 197px;
+    left: 30px;
+   
+}
+.content{
+    position: absolute;
+    top: 275px;
+    left: 60px;
+    font-weight: 100;
+    font-size: 280%;
+    opacity: 100%;
+    letter-spacing: 1px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.content_2{
+    position: absolute;
+    top: 330px;
+    left: 27px;
+    font-weight: bold;
+    font-size: 280%;
+    letter-spacing: 1px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.content_button{
+    height: 63px;
+    width: 260px;
+    position: absolute;
+    top: 459px;
+    left: 185px;
+    font-weight:100;
+    font-size: 140%;
+    letter-spacing: 4px;
+    border-radius: 10px;
+    background: none;
+    border-width: 3px;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.content_button:hover{
+    text-decoration: underline;
+}
+.body1{
+    height: 350px;
+    width: 100%;
+}
+.body_title{
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    margin: 0;
+    padding-top: 105px;
+    color: #666666;
+    font-size: 32.5px;
+    font-weight: 700;
+    letter-spacing: -1;
+}
+.body_title2{
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    color: #db0306;
+    font-size: 20px;
+    letter-spacing: 5px;
+    font-weight: 100;
+}
+.margin1{
+    margin-left: 660px;
+    margin-right: 660px;
+    background: #db0306;
+    border-color: #db0306;
+    border-width: 1px;
+}
+.body_content{
+    font-family: "Open Sans", sans-serif;
+    margin-top: 49px;
+    text-align: center;
+    font-size: 18px;
+    color: #767676;
+    font-weight: lighter;
+    line-height: 27px;
+
+}
+.icons{
+    height: 200px;
+    display: flex;
+    padding-top: 75px;
+}
+.icon_spacing{
+    height: 120px;
+    margin-left: 150px;
+
+}
+.link{
+    text-decoration: none;
+}
+.icon_content_spacing{
+    margin-left: 150px;
+    text-align: center;
+    color: black;
+    padding-left: 0px;
+    font-family: Raleway, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px
+}
+.icon_content_spacing:hover{
+    color: #db0306;
+    font-weight: bold;
+}
+.glass{
+    height: 430px;
+    width: 100%;
+    padding-top: 105px;
+    padding-left: 80px;
+}
+.glass1_2{
+    height: 350px;
+    width: 641px;
+    border-radius: 0px;
+    border-color: #fff;
+    box-shadow: -0.5px -0.5px 2px 2px rgba(0,0,0,0.2);
+    box-sizing: border-box;
+    background: transparent;
+    margin-left: 20px;
+    padding-bottom: 0px;
+    float: left;
+}
+.glass_image1_2{
+    height: 150px;
+    width: 450px;
+    transition: 0.3s ease-in-out;
+    transform: scale(1);
+}
+.glass_image1_2:hover{
+    transform: scale(1.1);
+}
+.image_link{
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 4px;
+    color: #db0306;
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: none;
+    
+}
+.image_link:hover{
+    zoom: 0;
+    text-decoration:underline;
+}
+.brand_adds{
+    height: 1110px;
+    width: 100%;
+    background: #ebe9eb
+}
+.our_brand{
+    height: 160px;
+    width: 100%;
+    color: #666666;
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    padding-top: 30px;
+}
+.our_brand_underline{
+    margin-left: 660px;
+    margin-right: 660px;
+    background: #db0306;
+    border-color: #db0306;
+    border-width: 1px;
+}
+.pictures1{
+    display: flex;
+    height: 420px;
+    width: 100%;
+    background: #ebe9eb
+}
+.pic_1{
+    display: block;
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    transform: scale(1);
+    transition: 0.3s ease-in-out;
+}
+.zoom_in{
+    overflow: hidden;
+    margin-left: 5%;
+}
+.pic_1:hover{
+    transform: scale(1.1);
+
+}
+.box1{
+    display: inline-block;
+    width: 32.4%;
+    text-align: center;
+}
+.box2{
+    display: inline-block;
+    width: 27.5%;
+    text-align: center;
+}
+.box3{
+    display: inline-block;
+    width: 38.4%;
+    text-align: center;
+}
+.box4{
+    display: inline-block;
+    width: 42%;
+    text-align: center;
+}
+.box5{
+    display: inline-block;
+    width: 27.3%;
+    text-align: center;
+}
+.box6{
+    display: inline-block;
+    width: 28.9%;
+    text-align: center;
+}
+.footer1{
+    height: 80px;
+    width: 100%;
+    background: #db0306;
+    font-family: Raleway, sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: 6.5px;
+    text-align: center;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.footer1:hover{
+    text-decoration: underline;
+}
+.footer2{
+    height: 260px;
+    width: 100%;
+    display: flex;
+}
+.footer_image{
+    height: 230px;
+    width: 350px;
+   
+}
+.footer_logo{
+    width: 80%;
+    margin-top: 80px;
+    margin-left: 60px;
+}
+.footer_logo2{
+    width: 19%;
+    margin-top: 5px;
+    margin-left: 65px;
+}
+.footer2_content1{
+    height: 230px;
+    width: 200px;
+    text-align: center;
+    margin-left: 70px;
+}
+.footer2_categories{
+    font-family: Raleway, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: left;
+    margin-top: 80px;
+    
+}
+.categories_list{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #23394b;
+    text-align: left;
+}
+.categories_list:hover{
+    color: #db0306;
+}
+.footer3_content{
+    text-align: center;
+    font-family: "Open Sans",sans-serif;
+}
+.privacy{
+    color: #767676;
+    font-family: "Open Sans",sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.7;
+    padding: 0;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.privacy:hover{
+    color: #db0306;
+    
+}
+.footer_margin{
+    margin-left: 65px;
+    margin-right: 65px;
+    color: #e7e3e3;
+}
+.final_footer{
+    text-align: center;
+    height: 50px;
+    padding-top: 2px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.final_link{
+    color: black;
+}
